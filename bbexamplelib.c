@@ -17,4 +17,7 @@
 void LibHelloWorld()
 {
   printf("Hello World (from a shared library!)\n");
+  /* 1.1 new update*/
+  printf("1.1 Hello World \n");
+  
 }
